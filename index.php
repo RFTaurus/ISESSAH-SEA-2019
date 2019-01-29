@@ -225,7 +225,7 @@
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-4"><time>chulalongkorn university</time></div>
+              <div class="col-md-4"><time>Chulalongkorn university</time></div>
               <div class="col-md-8">
                 <h4>Dr. Chaidate Inchaisri</h4>
               </div>
@@ -335,7 +335,7 @@
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-4"><time>chulalongkorn university</time></div>
+              <div class="col-md-4"><time>Chulalongkorn university</time></div>
               <div class="col-md-8">
                 <h4>Dr. Thanis Damrongwatanapokin</h4>
               </div>
@@ -356,7 +356,7 @@
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-4"><time>chulalongkorn university</time></div>
+              <div class="col-md-4"><time>Chulalongkorn university</time></div>
               <div class="col-md-8">
                 <h4>Dr. Chaidate Inchaisri</h4>
               </div>
