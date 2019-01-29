@@ -116,7 +116,7 @@
         <div class="row">
           <div class="col-lg-6 col-md-6">
             <div class="speaker">
-              <img src="img/speakers/jonathan-rushton.jpg" alt="Prof. Jonathan Rushton" class="img-fluid" style="padding-left: 6vw;">
+              <img src="img/speakers/jonathan-rushton.jpg" alt="Prof. Jonathan Rushton" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Prof. Jonathan Rushton, MA. MAgSci. PhD.</a></h3>
                 <p>Professor of Animal Health and Food Systems Economics, University of Liverpool</p>
@@ -128,7 +128,7 @@
           </div>
           <div class="col-lg-6 col-md-6">
             <div class="speaker">
-              <img src="img/speakers/henk-hogeveen.jpg" alt="Prof. Henk Hogeveen" class="img-fluid" style="padding-left: 6vw;">
+              <img src="img/speakers/henk-hogeveen.jpg" alt="Prof. Henk Hogeveen" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Prof. dr. ir. Henk Hogeveen</a></h3>
                 <p>Professor Animal Health Management, Wageningen University</p>
@@ -143,7 +143,7 @@
         <div class="row">
           <div class="col-lg-6 col-md-6">
             <div class="speaker">
-              <img src="img/speakers/tri-satya.jpg" alt="Drh Tri Satya Putri" class="img-fluid" style="padding-left: 6vw;">
+              <img src="img/speakers/tri-satya.jpg" alt="Drh Tri Satya Putri" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Drh Tri Satya Putri Naipospos, MPhil. Ph.D</a></h3>
                 <p>Center for Indonesia Veterinary Analytical Studies (CIVAS), Indonesia</p>
@@ -155,7 +155,7 @@
           </div>
           <div class="col-lg-6 col-md-6">
             <div class="speaker">
-              <img src="img/speakers/damian-tago.jpg" alt="Damian Tago Pacheco, Ph.D." class="img-fluid" style="padding-left: 6vw;">
+              <img src="img/speakers/damian-tago.jpg" alt="Damian Tago Pacheco, Ph.D." class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Damian Tago Pacheco, Ph.D.</a></h3>
                 <p>Regional Animal Health Economist, FAO</p>
