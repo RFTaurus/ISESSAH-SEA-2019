@@ -54,11 +54,12 @@
           <li class="menu-active"><a href="#intro">Home</a></li>
           <li><a href="#about">About</a></li>
           <li><a href="#speakers">Speakers</a></li>
-          <li><a href="#Committee">Committee Members</a></li>
+          <li><a href="#Committee">Committee</a></li>
           <li><a href="#schedule">Schedule</a></li>
           <li><a href="#venue">Venue</a></li>
-          <li><a href="#participants">Participating Organization</a></li>
+          <li><a href="#participants">Participants</a></li>
           <li><a href="#contact">Contact</a></li>
+          <li class="buy-tickets"><a href="#buy-tickets">Registration Fees</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -72,8 +73,8 @@
       <h2 class="mb-4 pb-0"><span>ISESSAH-SEA 2019</span> Conference</h2>
       <i><p class="mb-4 pb-0">The International Society for Economics and Social Sciences of Animal Health - South East Asia 2019</p></i>
       <p class="mb-4 pb-0">17 – 18 October 2019, IPB International Convention Center, IPB University, Indonesia</p>
-      <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video"
-        data-autoplay="true"></a>
+      <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video"
+        data-autoplay="true"></a> -->
       <a href="#about" class="about-btn scrollto">About The Event</a>
     </div>
   </section>
@@ -175,43 +176,214 @@
       <div class="container wow fadeInUp">
         <div class="section-header">
           <h2>ISESSAH-SEA 2019 Committee</h2>
-          <p>Here is our event Committee Members</p>
+          <p>Here is our conference Committee Members</p>
         </div>
 
-        <!-- <h3 class="sub-heading">Coming Soon</h3> -->
+        <ul class="nav nav-tabs" role="tablist">
+          <li class="nav-item">
+            <a class="nav-link active" href="#steering" role="tab" data-toggle="tab">Steering</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#organizing" role="tab" data-toggle="tab">Organizing</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#scientific" role="tab" data-toggle="tab">Scientific</a>
+          </li>
+        </ul>
 
         <div class="tab-content row justify-content-center">
 
-          <!-- Schdule Day 1 -->
+          <!-- 1st Committee -->
           <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="steering">
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>Steering Committee Members</time></div>
-              <div class="col-md-10">
-                <h4>Prof Jonathan Rusthon (University of Liverpool)</h4>
-                <h4>Prof Henk Hogeveen (Wageningen University)</h4>
-                <h4>Dr. M. Hidayat (Indonesia Ministry of Agriculture)</h4>
-                <h4>Dr. Norhariani Mohd Nor (University Putra Malaysia)</h4>
-                <h4>Dr. Chaidate Inchaisri (chulalongkorn university)</h4>
+              <div class="col-md-4"><time>University of Liverpool</time></div>
+              <div class="col-md-8">
+                <h4>Prof Jonathan Rusthon</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>Organizing Committee Members</time></div>
-              <div class="col-md-10">
+              <div class="col-md-4"><time>Wageningen University</time></div>
+              <div class="col-md-8">
+                <h4>Prof Henk Hogeveen</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>Indonesia Ministry of Agriculture</time></div>
+              <div class="col-md-8">
+                <h4>Dr. M. Hidayat</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>University Putra Malaysia</time></div>
+              <div class="col-md-8">
+                <h4>Dr. Norhariani Mohd Nor</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>chulalongkorn university</time></div>
+              <div class="col-md-8">
+                <h4>Dr. Chaidate Inchaisri</h4>
+              </div>
+            </div>
+
+          </div>
+
+          <!-- 2nd Committee -->
+          <div role="tabpanel" class="col-lg-9 tab-pane fade show" id="organizing">
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>President</time></div>
+              <div class="col-md-8">
                 <h4>Dr. Etih Sudarnika (Bogor Agricultural University)</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>1st Vice president</time></div>
+              <div class="col-md-8">
                 <h4>Dr. Chairul Basri (Bogor Agricultural University)(Chair)</h4>
-                <h4>Drh. Ardilasunu Wicaksono, MSi (Bogor Agricultural University)</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>2nd Vice president</time></div>
+              <div class="col-md-8">
                 <h4>Dikky Indrawan , MM (Bogor Agricultural University)</h4>
-                <h4>Dr Nur Indah Ahmad (University Putra Malaysia)</h4>
-                <h4>Dr Nurul Aisyah Bt Suhaimi (University Sultan Zainal Abidin)</h4>
-                <h4>Dr. Suporn Thongyuan (Kasetsart University)</h4>
-                <h4>Dr. Thanis Damrongwatanapokin (chulalongkorn university)</h4>
-                <h4>Dr. Widagdo Sri Nugroho</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>Chair of Secretariat (Secretary)</time></div>
+              <div class="col-md-8">
+                <h4>Drh. Ardilasunu Wicaksono, MSi (Bogor Agricultural University)</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>Chair of Registration</time></div>
+              <div class="col-md-8">
+                <h4>Andina Oktariani,SE MSi (IPB University)</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>Chair of Symposium Organization</time></div>
+              <div class="col-md-8">
+                <h4>Drh. Okti Nadia Poetri, MSc. Ph.D (IPB University)</h4>
+                <h4>Achmad Fadillah, S.E, M.Si, MSc (IPB University)</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>Chair of Public Relations</time></div>
+              <div class="col-md-8">
+                <h4>Suhendi, SP, MM (IPB University)</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>Chair of Publication</time></div>
+              <div class="col-md-8">
+                <h4>Dr. Drh. Ridi Arif (IPB University)</h4>
+                <h4>Dr. Drh. Herwin Pisestyani, MSi</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>Chair of Government Roundtable Discussion</time></div>
+              <div class="col-md-8">
                 <h4>Dr. Syarison Idris (Indonesia Ministry of Agriculture)</h4>
+                <h4>Dr. M. Hidayat (Indonesia Ministry of Agriculture)</h4>
+              </div>
+            </div>
+          </div>
+
+          <!-- 3rd Committee -->
+          <div role="tabpanel" class="col-lg-9 tab-pane fade show" id="scientific">
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>Bogor Agricultural University</time></div>
+              <div class="col-md-8">
+                <h4>Dr. Eko Ruddi Cahyadi</h4>
+              </div>
+            </div>
+          
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>University Putra Malaysia</time></div>
+              <div class="col-md-8">
+                <h4>Dr Nur Indah Ahmad</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>University Sultan Zainal Abidin</time></div>
+              <div class="col-md-8">
+                <h4>Dr Nurul Aisyah Bt Suhaimi</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>Kasetsart University</time></div>
+              <div class="col-md-8">
+                <h4>Dr. Suporn Thongyuan</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>chulalongkorn university</time></div>
+              <div class="col-md-8">
+                <h4>Dr. Thanis Damrongwatanapokin</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>Gadjah Mada University</time></div>
+              <div class="col-md-8">
+                <h4>Dr. Widagdo Sri Nugroho</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>University Putra Malaysia</time></div>
+              <div class="col-md-8">
+                <h4>Dr. Norhariani Mohd Nor</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>chulalongkorn university</time></div>
+              <div class="col-md-8">
+                <h4>Dr. Chaidate Inchaisri</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>Politani Kupang</time></div>
+              <div class="col-md-8">
                 <h4>Dr. Ewaldus Wera</h4>
               </div>
             </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>FAO</time></div>
+              <div class="col-md-8">
+                <h4>Dr. Damian TagoPacheco</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-4"><time>ILRI</time></div>
+              <div class="col-md-8">
+                <h4>Dr. Karl Rich</h4>
+              </div>
+            </div>
+
+          </div>
 
         </div>
 
@@ -226,13 +398,48 @@
       <div class="container wow fadeInUp">
         <div class="section-header">
           <h2>ISESSAH-SEA 2019 Outline</h2>
-          <p>Here is our event outline</p>
+          <p>Here is our conference outline</p>
         </div>
+
+        <ul class="nav nav-tabs" role="tablist">
+          <li class="nav-item">
+            <a class="nav-link active" href="#day-1" role="tab" data-toggle="tab">Important Dates</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#day-2" role="tab" data-toggle="tab">Activities</a>
+          </li>
+        </ul>
 
         <div class="tab-content row justify-content-center">
 
           <!-- Schdule Day 1 -->
           <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
+
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>June 14th, 2019</time></div>
+              <div class="col-md-9">
+                <h4>Abstract submission deadline</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>July 2nd, 2019</time></div>
+              <div class="col-md-9">
+                <h4>Early registration deadline</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>August 17th, 2019</time></div>
+              <div class="col-md-9">
+                <h4>Registration deadline</h4>
+              </div>
+            </div>
+
+          </div>
+
+          <!-- Schdule Day 2 -->
+          <div role="tabpanel" class="col-lg-9 tab-pane fade show" id="day-2">
 
             <div class="row schedule-item">
               <div class="col-md-2"><time>Section 1</time></div>
@@ -283,8 +490,8 @@
       <div class="container-fluid">
 
         <div class="section-header">
-          <h2>Event Venue</h2>
-          <p>Event venue location info and gallery</p>
+          <h2>Conference Venue</h2>
+          <p>Conference venue location info and gallery</p>
         </div>
 
         <div class="row no-gutters">
@@ -337,106 +544,13 @@
     </section>
 
     <!--==========================
-      Hotels Section
-    ============================-->
-    <!-- <section id="hotels" class="section-with-bg wow fadeInUp">
-
-      <div class="container">
-        <div class="section-header">
-          <h2>Hotels</h2>
-          <p>Her are some nearby hotels</p>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-4 col-md-6">
-            <div class="hotel">
-              <div class="hotel-img">
-                <img src="img/hotels/1.jpg" alt="Hotel 1" class="img-fluid">
-              </div>
-              <h3><a href="#">Hotel 1</a></h3>
-              <div class="stars">
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-              </div>
-              <p>0.4 Mile from the Venue</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6">
-            <div class="hotel">
-              <div class="hotel-img">
-                <img src="img/hotels/2.jpg" alt="Hotel 2" class="img-fluid">
-              </div>
-              <h3><a href="#">Hotel 2</a></h3>
-              <div class="stars">
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star-half-full"></i>
-              </div>
-              <p>0.5 Mile from the Venue</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6">
-            <div class="hotel">
-              <div class="hotel-img">
-                <img src="img/hotels/3.jpg" alt="Hotel 3" class="img-fluid">
-              </div>
-              <h3><a href="#">Hotel 3</a></h3>
-              <div class="stars">
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-              </div>
-              <p>0.6 Mile from the Venue</p>
-            </div>
-          </div>
-
-        </div>
-      </div>
-
-    </section> -->
-
-    <!--==========================
-      Gallery Section
-    ============================-->
-    <!-- <section id="gallery" class="wow fadeInUp">
-
-      <div class="container">
-        <div class="section-header">
-          <h2>Gallery</h2>
-          <p>Check our gallery from the recent events</p>
-        </div>
-      </div>
-
-      <div class="owl-carousel gallery-carousel">
-        <a href="img/gallery/1.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/1.jpg" alt=""></a>
-        <a href="img/gallery/2.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/2.jpg" alt=""></a>
-        <a href="img/gallery/3.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/3.jpg" alt=""></a>
-        <a href="img/gallery/4.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/4.jpg" alt=""></a>
-        <a href="img/gallery/5.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/5.jpg" alt=""></a>
-        <a href="img/gallery/6.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/6.jpg" alt=""></a>
-        <a href="img/gallery/7.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/7.jpg" alt=""></a>
-        <a href="img/gallery/8.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/8.jpg" alt=""></a>
-      </div>
-
-    </section> -->
-
-    <!--==========================
       Sponsors Section
     ============================-->
     <section id="participants" class="section-with-bg">
       <div class="container wow fadeInUp">
         <div class="section-header">
           <h2>Participating Organizations</h2>
-          <p>Here is our event participants</p>
+          <p>Here is our conference participants</p>
         </div>
 
         <div class="tab-content row justify-content-center">
@@ -553,226 +667,133 @@
     </section>
 
     <!--==========================
-      F.A.Q Section
-    ============================-->
-    <!-- <section id="faq" class="wow fadeInUp">
-
-      <div class="container">
-
-        <div class="section-header">
-          <h2>F.A.Q </h2>
-        </div>
-
-        <div class="row justify-content-center">
-          <div class="col-lg-9">
-              <ul id="faq-list">
-
-                <li>
-                  <a data-toggle="collapse" class="collapsed" href="#faq1">Non consectetur a erat nam at lectus urna duis? <i class="fa fa-minus-circle"></i></a>
-                  <div id="faq1" class="collapse" data-parent="#faq-list">
-                    <p>
-                      Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
-                    </p>
-                  </div>
-                </li>
-      
-                <li>
-                  <a data-toggle="collapse" href="#faq2" class="collapsed">Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque? <i class="fa fa-minus-circle"></i></a>
-                  <div id="faq2" class="collapse" data-parent="#faq-list">
-                    <p>
-                      Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-                    </p>
-                  </div>
-                </li>
-      
-                <li>
-                  <a data-toggle="collapse" href="#faq3" class="collapsed">Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi? <i class="fa fa-minus-circle"></i></a>
-                  <div id="faq3" class="collapse" data-parent="#faq-list">
-                    <p>
-                      Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
-                    </p>
-                  </div>
-                </li>
-      
-                <li>
-                  <a data-toggle="collapse" href="#faq4" class="collapsed">Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla? <i class="fa fa-minus-circle"></i></a>
-                  <div id="faq4" class="collapse" data-parent="#faq-list">
-                    <p>
-                      Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-                    </p>
-                  </div>
-                </li>
-      
-                <li>
-                  <a data-toggle="collapse" href="#faq5" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="fa fa-minus-circle"></i></a>
-                  <div id="faq5" class="collapse" data-parent="#faq-list">
-                    <p>
-                      Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-                    </p>
-                  </div>
-                </li>
-      
-                <li>
-                  <a data-toggle="collapse" href="#faq6" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="fa fa-minus-circle"></i></a>
-                  <div id="faq6" class="collapse" data-parent="#faq-list">
-                    <p>
-                      Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
-                    </p>
-                  </div>
-                </li>
-      
-              </ul>
-          </div>
-        </div>
-
-      </div>
-
-    </section> -->
-
-    <!--==========================
-      Subscribe Section
-    ============================-->
-    <!-- <section id="subscribe">
-      <div class="container wow fadeInUp">
-        <div class="section-header">
-          <h2>Newsletter</h2>
-          <p>Rerum numquam illum recusandae quia mollitia consequatur.</p>
-        </div>
-
-        <form method="POST" action="#">
-          <div class="form-row justify-content-center">
-            <div class="col-auto">
-              <input type="text" class="form-control" placeholder="Enter your Email">
-            </div>
-            <div class="col-auto">
-              <button type="submit">Subscribe</button>
-            </div>
-          </div>
-        </form>
-
-      </div>
-    </section> -->
-
-    <!--==========================
       Buy Ticket Section
     ============================-->
-    <!-- <section id="buy-tickets" class="section-with-bg wow fadeInUp">
+    <section id="buy-tickets" class="section-with-bg wow fadeInUp">
       <div class="container">
 
         <div class="section-header">
-          <h2>Buy Tickets</h2>
-          <p>Velit consequatur consequatur inventore iste fugit unde omnis eum aut.</p>
+          <h2>Registration Fees</h2>
+          <b><p>Notes :</p></b>
+          <p>*Students must provide recent proof of student registration from her/his university.</p>
+          <p>**Accompanying price does not include Gala Dinner (20 USD)</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4">
             <div class="card mb-5 mb-lg-0">
               <div class="card-body">
-                <h5 class="card-title text-muted text-uppercase text-center">Standard Access</h5>
-                <h6 class="card-price text-center">$150</h6>
+                <h5 class="card-title text-muted text-uppercase text-center">Until 2 July 2019</h5>
+                <h6 class="card-price text-center">Early</h6>
                 <hr>
                 <ul class="fa-ul">
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Regular Seating</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Community Access</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Workshop Access</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>After Party</li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates : <b>$200 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* : <b>$75 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$35 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Banquet*** (Gala dinner) : <b>Included</b></li>
                 </ul>
                 <hr>
-                <div class="text-center">
-                  <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="standard-access">Buy Now</button>
-                </div>
               </div>
             </div>
           </div>
+
           <div class="col-lg-4">
             <div class="card mb-5 mb-lg-0">
               <div class="card-body">
-                <h5 class="card-title text-muted text-uppercase text-center">Pro Access</h5>
-                <h6 class="card-price text-center">$250</h6>
+                <h5 class="card-title text-muted text-uppercase text-center">Until 17 August 2019</h5>
+                <h6 class="card-price text-center">Regular</h6>
                 <hr>
                 <ul class="fa-ul">
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Regular Seating</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Community Access</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Workshop Access</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>After Party</li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates : <b>$350 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* : <b>$100 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$50 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Banquet*** (Gala dinner) : <b>Included</b></li>
                 </ul>
                 <hr>
-                <div class="text-center">
-                  <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="pro-access">Buy Now</button>
-                </div>
-              </div>
-            </div>
-          </div> -->
-          <!-- Pro Tier -->
-          <!-- <div class="col-lg-4">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title text-muted text-uppercase text-center">Premium Access</h5>
-                <h6 class="card-price text-center">$350</h6>
-                <hr>
-                <ul class="fa-ul">
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Regular Seating</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Community Access</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Workshop Access</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>After Party</li>
-                </ul>
-                <hr>
-                <div class="text-center">
-                  <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="premium-access">Buy Now</button>
-                </div>
-
               </div>
             </div>
           </div>
+
+          <div class="col-lg-4">
+            <div class="card mb-5 mb-lg-0">
+              <div class="card-body">
+                <h5 class="card-title text-muted text-uppercase text-center">On-site</h5>
+                <h6 class="card-price text-center">On-site</h6>
+                <hr>
+                <ul class="fa-ul">
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates : <b>$400 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* : <b>$120 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$60 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Banquet*** (Gala dinner) : <b>Included</b></li>
+                </ul>
+                <hr>
+              </div>
+            </div>
+          </div>
+
         </div>
 
-      </div> -->
+      </div>
 
-      <!-- Modal Order Form -->
-      <!-- <div id="buy-ticket-modal" class="modal fade">
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h4 class="modal-title">Buy Tickets</h4>
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-              </button>
+    </section>
+
+    <!--==========================
+      Sponsors Section
+    ============================-->
+    <section id="participants" class="section-with-bg">
+      <div class="container wow fadeInUp">
+        <div class="section-header">
+          <h2>Organized By</h2>
+          <p>This Conference Organized by</p>
+        </div>
+
+        <div class="tab-content row justify-content-center">
+
+          <!-- Organization List -->
+          <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
+
+            <div class="row schedule-item">
+              <div class="col-md-6">
+                <div class="speaker" style="width: auto; height: 10vh; overflow: visible;">
+                  <img src="img/sponsors/fkhipb.png" alt="Logo-IPB" style="border-radius: 0%">
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h4>Faculty of Veterinary Medicine IPB University</h4>
+              </div>
             </div>
-            <div class="modal-body">
-              <form method="POST" action="#">
-                <div class="form-group">
-                  <input type="text" class="form-control" name="your-name" placeholder="Your Name">
-                </div>
-                <div class="form-group">
-                  <input type="text" class="form-control" name="your-email" placeholder="Your Email">
-                </div>
-                <div class="form-group">
-                  <select id="ticket-type" name="ticket-type" class="form-control" >
-                    <option value="">-- Select Your Ticket Type --</option>
-                    <option value="standard-access">Standard Access</option>
-                    <option value="pro-access">Pro Access</option>
-                    <option value="premium-access">Premium Access</option>
-                  </select>
-                </div>
-                <div class="text-center">
-                  <button type="submit" class="btn">Buy Now</button>
-                </div>
-              </form>
-            </div> -->
-          <!-- </div> -->
-          <!-- /.modal-content -->
-        <!-- </div> -->
-        <!-- /.modal-dialog -->
-      <!-- </div> -->
-      <!-- /.modal -->
 
-    <!-- </section> -->
+            <div class="row schedule-item">
+              <div class="col-md-6">
+                <div class="speaker" style="width: auto; height: 10vh; overflow: visible;">
+                  <img src="img/sponsors/sbipb.jpg" alt="Logo-IPB" style="border-radius: 0%">
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h4>School of Business of IPB University</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-6">
+              <div class="speaker" style="width: auto; height: 10vh; overflow: visible;">
+                  <img src="img/sponsors/isessah.png" alt="Logo-IPB" style="border-radius: 0%">
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h4>ISESSAH (The International Society for Economics and Social Sciences of Animal Health).</h4>
+              </div>
+            </div>
+
+
+          </div>
+          <!-- End Schdule Day 1 -->
+
+        </div>
+
+      </div>
+
+    </section>
 
     <!--==========================
       Contact Section
@@ -859,14 +880,6 @@
               <strong>Phone:</strong> +62 8111 1710 15<br>
               <strong>Email:</strong> rdikky@gmail.com<br>
             </p>
-
-            <!-- <div class="social-links">
-              <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
-            </div> -->
 
           </div>
 
