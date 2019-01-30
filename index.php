@@ -239,28 +239,28 @@
             <div class="row schedule-item">
               <div class="col-md-4"><time>President</time></div>
               <div class="col-md-8">
-                <h4>Dr. Etih Sudarnika (Bogor Agricultural University)</h4>
+                <h4>Dr. Etih Sudarnika (IPB University)</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
               <div class="col-md-4"><time>1st Vice president</time></div>
               <div class="col-md-8">
-                <h4>Dr. Chaerul Basri (Bogor Agricultural University)</h4>
+                <h4>Dr. Chaerul Basri (IPB University)</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
               <div class="col-md-4"><time>2nd Vice president</time></div>
               <div class="col-md-8">
-                <h4>Dikky Indrawan , MM (Bogor Agricultural University)</h4>
+                <h4>Dikky Indrawan , MM (IPB University)</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
               <div class="col-md-4"><time>Chair of Secretariat (Secretary)</time></div>
               <div class="col-md-8">
-                <h4>Drh. Ardilasunu Wicaksono, MSi (Bogor Agricultural University)</h4>
+                <h4>Drh. Ardilasunu Wicaksono, MSi (IPB University)</h4>
               </div>
             </div>
 
@@ -307,7 +307,7 @@
           <div role="tabpanel" class="col-lg-9 tab-pane fade show" id="scientific">
 
             <div class="row schedule-item">
-              <div class="col-md-4"><time>Bogor Agricultural University</time></div>
+              <div class="col-md-4"><time>IPB University</time></div>
               <div class="col-md-8">
                 <h4>Dr. Eko Ruddi Cahyadi</h4>
               </div>
@@ -565,7 +565,7 @@
                 </div>
               </div>
               <div class="col-md-6">
-                <h4>Bogor Agricultural University</h4>
+                <h4>IPB University</h4>
               </div>
             </div>
 
