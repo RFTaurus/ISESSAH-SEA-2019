@@ -1780,7 +1780,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     background-attachment: fixed;
   }
 
-  .img-fluid {
+  #speakers .speaker .img-fluid {
     max-width: 100%;
     padding-left: 6vw;
     height: auto;

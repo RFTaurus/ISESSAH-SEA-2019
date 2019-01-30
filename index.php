@@ -602,7 +602,7 @@
               </div>
             </div>
 
-            <div class="row schedule-item">
+            <!-- <div class="row schedule-item">
               <div class="col-md-6">
                 <div class="speaker">
                   <img src="img/sponsors/5.png" alt="Logo-IPB">
@@ -611,7 +611,7 @@
               <div class="col-md-6">
                 <h4>Indonesia Ministry of Agriculture</h4>
               </div>
-            </div>
+            </div> -->
 
             <div class="row schedule-item">
               <div class="col-md-6">
