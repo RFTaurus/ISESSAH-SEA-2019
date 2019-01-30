@@ -583,11 +583,44 @@
             <div class="row schedule-item">
               <div class="col-md-6">
                 <div class="speaker">
+                  <img src="img/sponsors/10.png" alt="Logo-IPB">
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h4>Politani Kupang</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-6">
+                <div class="speaker">
                   <img src="img/sponsors/3.jpg" alt="Logo-IPB">
                 </div>
               </div>
               <div class="col-md-6">
                 <h4>University Putra Malaysia</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-6">
+                <div class="speaker">
+                  <img src="img/sponsors/11.png" alt="Logo-IPB">
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h4>University Sultan Zainal Abidin</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-6">
+                <div class="speaker">
+                  <img src="img/sponsors/12.png" alt="Logo-IPB">
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h4>Kasetsart University</h4>
               </div>
             </div>
 
@@ -601,39 +634,6 @@
                 <h4>Chulalongkorn University</h4>
               </div>
             </div>
-
-            <!-- <div class="row schedule-item">
-              <div class="col-md-6">
-                <div class="speaker">
-                  <img src="img/sponsors/5.png" alt="Logo-IPB">
-                </div>
-              </div>
-              <div class="col-md-6">
-                <h4>Indonesia Ministry of Agriculture</h4>
-              </div>
-            </div> -->
-
-            <!-- <div class="row schedule-item">
-              <div class="col-md-6">
-                <div class="speaker">
-                  <img src="img/sponsors/6.png" alt="Logo-IPB">
-                </div>
-              </div>
-              <div class="col-md-6">
-                <h4>Malaysia Ministry of Agriculture</h4>
-              </div>
-            </div> -->
-
-            <!-- <div class="row schedule-item">
-              <div class="col-md-6">
-                <div class="speaker">
-                  <img src="img/sponsors/7.png" alt="Logo-IPB">
-                </div>
-              </div>
-              <div class="col-md-6">
-                <h4>Thailand Ministry of Agriculture</h4>
-              </div>
-            </div> -->
 
             <div class="row schedule-item">
               <div class="col-md-6">
