@@ -613,7 +613,7 @@
               </div>
             </div> -->
 
-            <div class="row schedule-item">
+            <!-- <div class="row schedule-item">
               <div class="col-md-6">
                 <div class="speaker">
                   <img src="img/sponsors/6.png" alt="Logo-IPB">
@@ -622,9 +622,9 @@
               <div class="col-md-6">
                 <h4>Malaysia Ministry of Agriculture</h4>
               </div>
-            </div>
+            </div> -->
 
-            <div class="row schedule-item">
+            <!-- <div class="row schedule-item">
               <div class="col-md-6">
                 <div class="speaker">
                   <img src="img/sponsors/7.png" alt="Logo-IPB">
@@ -633,7 +633,7 @@
               <div class="col-md-6">
                 <h4>Thailand Ministry of Agriculture</h4>
               </div>
-            </div>
+            </div> -->
 
             <div class="row schedule-item">
               <div class="col-md-6">
