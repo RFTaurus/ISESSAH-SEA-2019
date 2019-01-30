@@ -143,10 +143,10 @@
         <div class="row">
           <div class="col-lg-6 col-md-6">
             <div class="speaker">
-              <img src="img/speakers/tri-satya.jpg" alt="Drh Tri Satya Putri" class="img-fluid">
+              <img src="img/speakers/norhariani-mohd.jpg" alt="Dr. Norhariani Mohd Nor" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Drh Tri Satya Putri Naipospos, MPhil. Ph.D</a></h3>
-                <p>Center for Indonesia Veterinary Analytical Studies (CIVAS), Indonesia</p>
+                <h3><a href="speaker-details.html">Dr. Norhariani Mohd Nor</a></h3>
+                <p>Doctor of Veterinary Medicine, University Putra Malaysia</p>
                 <div class="social">
                   <!-- <a href="https://www.linkedin.com/in/jonathan-rushton-a9712934/?originalSubdomain=uk" target="__blank"><i class="fa fa-linkedin"></i></a> -->
                 </div>
@@ -213,7 +213,7 @@
             <div class="row schedule-item">
               <div class="col-md-4"><time>Indonesia Ministry of Agriculture</time></div>
               <div class="col-md-8">
-                <h4>Dr. M. Hidayat</h4>
+                <h4>Dr. Etih Sudarnika</h4>
               </div>
             </div>
 
@@ -246,7 +246,7 @@
             <div class="row schedule-item">
               <div class="col-md-4"><time>1st Vice president</time></div>
               <div class="col-md-8">
-                <h4>Dr. Chairul Basri (Bogor Agricultural University)(Chair)</h4>
+                <h4>Dr. Chaerul Basri (Bogor Agricultural University)</h4>
               </div>
             </div>
 
