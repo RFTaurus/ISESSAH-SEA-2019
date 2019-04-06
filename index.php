@@ -71,7 +71,7 @@
   <section id="intro">
     <div class="intro-container wow fadeIn">
       <h2 class="mb-4 pb-0"><span>ISESSAH-SEA 2019</span> Conference</h2>
-      <i><blockquote class="mb-4 pb-0"><span style="color:aliceblue; font-size:1.25em;">"Strengthening animal health in farm business</span> <span style="color: #f82249; font-size:1.25em;">towards 4.0 industry in the South East Asia"</span></blockquote></i>
+      <!-- <i><blockquote class="mb-4 pb-0"><span style="color:aliceblue; font-size:1.25em;">"Strengthening animal health in farm business</span> <span style="color: #f82249; font-size:1.25em;">towards 4.0 industry in the South East Asia"</span></blockquote></i> -->
       <i><p class="mb-4 pb-0">The International Society for Economics and Social Sciences of Animal Health - South East Asia 2019</p></i>
       <i><p class="mb-4 pb-0">And The Scientific Meeting of Indonesian Veterinary Epidemiology and Economics Association 2019</p></i>
       <p class="mb-4 pb-0">17 – 18 October 2019, IPB International Convention Center, IPB University, Indonesia</p>
