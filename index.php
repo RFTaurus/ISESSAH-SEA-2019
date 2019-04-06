@@ -865,7 +865,7 @@
             <div class="row schedule-item">
               <div class="col-md-6">
               <div class="speaker" style="width: auto; height: 10vh; overflow: visible;">
-                  <img src="img/sponsors/isessah.png" alt="Logo-IPB" style="border-radius: 0%">
+                  <!-- <img src="img/sponsors/isessah.png" alt="Logo-IPB" style="border-radius: 0%"> -->
                 </div>
               </div>
               <div class="col-md-6">
