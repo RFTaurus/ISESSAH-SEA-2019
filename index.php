@@ -71,7 +71,9 @@
   <section id="intro">
     <div class="intro-container wow fadeIn">
       <h2 class="mb-4 pb-0"><span>ISESSAH-SEA 2019</span> Conference</h2>
+      <i><blockquote class="mb-4 pb-0"><span style="color:aliceblue; font-size:1.25em;">"Strengthening animal health in farm business</span> <span style="color: #f82249; font-size:1.25em;">towards 4.0 industry in the South East Asia"</span></blockquote></i>
       <i><p class="mb-4 pb-0">The International Society for Economics and Social Sciences of Animal Health - South East Asia 2019</p></i>
+      <i><p class="mb-4 pb-0">And The Scientific Meeting of Indonesian Veterinary Epidemiology and Economics Association 2019</p></i>
       <p class="mb-4 pb-0">17 – 18 October 2019, IPB International Convention Center, IPB University, Indonesia</p>
       <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video"
         data-autoplay="true"></a> -->
@@ -110,7 +112,7 @@
       <div class="container">
         <div class="section-header">
           <h2>Event Speakers</h2>
-          <p>Here are some of our speakers</p>
+          <p>Here are some of our Event speakers</p>
         </div>
 
         <div class="row">
@@ -140,6 +142,10 @@
           </div>
         </div>
 
+        <div class="section-header">
+          <h2>Invited Speakers</h2>
+          <p>Here are some of our Invited speakers</p>
+        </div>
         <div class="row">
           <div class="col-lg-6 col-md-6">
             <div class="speaker">
@@ -179,6 +185,20 @@
               </div>
             </div>
           </div>
+
+          <div class="col-lg-6 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/chaidate-inchaisri.jpg" alt="chaidate-inchaisri" class="img-fluid">
+              <div class="details">
+                <h3><a href="#speakers">Dr Chai Date Inchaisri, DVM MSc PhD</a></h3>
+                <p>Professor of Veterinary Medicine, Chulalongkorn University Thailand</p>
+                <div class="social">
+                  <!-- <a href="https://www.linkedin.com/in/damian-tago-809766a1/" target="__blank"><i class="fa fa-linkedin"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
         </div>
 
     </section>
@@ -422,6 +442,9 @@
           <li class="nav-item">
             <a class="nav-link" href="#day-2" role="tab" data-toggle="tab">Activities</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#day-3" role="tab" data-toggle="tab">Topics & Publication</a>
+          </li>
         </ul>
 
         <div class="tab-content row justify-content-center">
@@ -430,23 +453,37 @@
           <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
 
             <div class="row schedule-item">
-              <div class="col-md-3"><time>June 14th, 2019</time></div>
+              <div class="col-md-3"><time>May 31th, 2019</time></div>
               <div class="col-md-9">
                 <h4>Abstract submission deadline</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-3"><time>July 2nd, 2019</time></div>
+              <div class="col-md-3"><time>June 21th, 2019</time></div>
               <div class="col-md-9">
-                <h4>Early registration deadline</h4>
+                <h4>Abstract Announcement</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>July 02th, 2019</time></div>
+              <div class="col-md-9">
+                <h4>Early Bird Registration</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-3"><time>July 12th, 2019</time></div>
+              <div class="col-md-9">
+                <h4>Full Paper Submission deadline</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
               <div class="col-md-3"><time>August 17th, 2019</time></div>
               <div class="col-md-9">
-                <h4>Registration deadline</h4>
+                <h4>Regular Registration</h4>
               </div>
             </div>
 
@@ -487,7 +524,37 @@
                 <p>There will be networking Workshop for all participants on cases as problem based learning</p>
               </div>
             </div>
+          </div>
 
+          <!-- Schdule Day 3 -->
+          <div role="tabpanel" class="col-lg-9 tab-pane fade show" id="day-3">
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>Topics</time></div>
+              <div class="col-md-10">
+                <h4>01. Veterinary Economics</h4>
+                <h4>02. Veterinary Epidemiology</h4>
+                <h4>03. Social Science of Animal Health</h4>
+                <h4>04. One Health</h4>
+                <h4>05. Veterinary Public Health</h4>
+                <h4>06. Infectious Disease</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>Publications</time></div>
+              <div class="col-md-10">
+                <h4>Selected Paper Will be Published in:</h4>
+                <p>> Frontiers in Veterinary Medicine (SCOPUS Q1)</p>
+                <p>> Acta Veterinaria Indonesiana (SINTA 2)</p>
+                <p>> Indonesia Journal of Business and Entrepreneurship (SINTA 2)</p>
+                <p>> Jurnal Manajemen dan Agribisnis (SINTA 2)</p>
+                <p>> Jurnal Aplikasi Bisnis dan Manajemen (SINTA 2)</p>
+                <p>&nbsp;</p>
+                <h4>All papers will be published in:</h4>
+                <p>> Atlantis Press International Proceeding (International Indexed)</p>
+              </div>
+            </div>
           </div>
 
         </div>
@@ -689,8 +756,9 @@
         <div class="section-header">
           <h2>Registration Fees</h2>
           <b><p>Notes :</p></b>
-          <p>*Students must provide recent proof of student registration from her/his university.</p>
-          <p>**Accompanying price does not include Gala Dinner (20 USD)</p>
+          <p>* Students must provide recent proof of student registration from her/his university.</p>
+          <p>** Accompanying price does not include Gala Dinner (20 USD)</p>
+          <p>*** Publication Fee is only for 1 article/person. the next article charged 85 USD</p>
         </div>
 
         <div class="row">
@@ -701,8 +769,8 @@
                 <h6 class="card-price text-center">Early</h6>
                 <hr>
                 <ul class="fa-ul">
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates : <b>$200 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* : <b>$75 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates : <b>$330 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* : <b>$200 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$35 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Banquet*** (Gala dinner) : <b>Included</b></li>
                 </ul>
@@ -718,8 +786,8 @@
                 <h6 class="card-price text-center">Regular</h6>
                 <hr>
                 <ul class="fa-ul">
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates : <b>$350 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* : <b>$100 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates : <b>$480 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* : <b>$230 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$50 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Banquet*** (Gala dinner) : <b>Included</b></li>
                 </ul>
@@ -735,8 +803,8 @@
                 <h6 class="card-price text-center">On-site</h6>
                 <hr>
                 <ul class="fa-ul">
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates : <b>$400 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* : <b>$120 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates : <b>$530 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* : <b>$250 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$60 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Banquet*** (Gala dinner) : <b>Included</b></li>
                 </ul>
@@ -769,7 +837,7 @@
             <div class="row schedule-item">
               <div class="col-md-6">
                 <div class="speaker" style="width: auto; height: 10vh; overflow: visible;">
-                  <img src="img/sponsors/fkhipb.png" alt="Logo-IPB" style="border-radius: 0%">
+                  <img src="img/sponsors/fkhipb.jpg" alt="Logo-IPB" style="border-radius: 0%">
                 </div>
               </div>
               <div class="col-md-6">
@@ -795,10 +863,20 @@
                 </div>
               </div>
               <div class="col-md-6">
-                <h4>ISESSAH (The International Society for Economics and Social Sciences of Animal Health).</h4>
+                <h4>Asosiasi Epidemiologi dan Ekonomi Veteriner Indonesia</h4>
               </div>
             </div>
 
+            <div class="row schedule-item">
+              <div class="col-md-6">
+              <div class="speaker" style="width: auto; height: 10vh; overflow: visible;">
+                  <img src="img/sponsors/isessah.png" alt="Logo-IPB" style="border-radius: 0%">
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h4>ISESSAH (The International Society for Economics and Social Sciences of Animal Health)</h4>
+              </div>
+            </div>
 
           </div>
           <!-- End Schdule Day 1 -->
@@ -827,8 +905,8 @@
             <div class="contact-phone">
               <i class="ion-ios-telephone-outline"></i>
               <h3>Phone Number</h3>
-              <p><a href="tel:+6281298329950">+62 8129 8329 950</a> (Dr. Drh. Chaerul Basri, M.Epid)</p>
-              <p><a href="tel:+628111171015">+62 8111 1710 15</a> (R. Dikky Indrawan, SP. M.M)</p>
+              <p><a href="tel:+6285523579238">+62 8552 3579 238</a> (Arliando Hidayat)</p>
+              <p><a href="tel:+6289638316850">+62 8963 8316 850</a> (Andre Pras Setya)</p>
             </div>
           </div>
 
@@ -836,8 +914,9 @@
             <div class="contact-email">
               <i class="ion-ios-email-outline"></i>
               <h3>Email</h3>
-              <p><a href="mailto:chaerul@apps.ipb.ac.id">chaerul@apps.ipb.ac.id</a> (Dr. Drh. Chaerul Basri, M.Epid)</p>
-              <p><a href="mailto:rdikky@gmail.com">rdikky@gmail.com</a> (R. Dikky Indrawan, SP. M.M)</p>
+              <!-- <p><a href="mailto:chaerul@apps.ipb.ac.id">chaerul@apps.ipb.ac.id</a> (Dr. Drh. Chaerul Basri, M.Epid)</p>
+              <p><a href="mailto:rdikky@gmail.com">rdikky@gmail.com</a> (R. Dikky Indrawan, SP. M.M)</p> -->
+              <p><a href="mailto:isessah_sea@apps.ipb.ac.id">isessah_sea@apps.ipb.ac.id</a> (Isessah-sea)</p>
             </div>
           </div>
 
@@ -885,14 +964,19 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
-              Dr. Drh. Chaerul Basri, M.Epid <br>
-              <strong>Phone:</strong> +62 8129 8329 950<br>
-              <strong>Email:</strong> chaerul@apps.ipb.ac.id<br>
+              Arliando Hidayat <br>
+              <strong>Phone:</strong> +62 8552 3579 238<br>
+              <!-- <strong>Email:</strong> chaerul@apps.ipb.ac.id<br> -->
             </p>
             <p>
-              R. Dikky Indrawan, SP. M.M <br>
-              <strong>Phone:</strong> +62 8111 1710 15<br>
-              <strong>Email:</strong> rdikky@gmail.com<br>
+              Andre Pras Setya <br>
+              <strong>Phone:</strong> +62 8963 8316 850<br>
+              <!-- <strong>Email:</strong> rdikky@gmail.com<br> -->
+            </p>
+            <p>
+              Isessah-sea <br>
+              <!-- <strong>Phone:</strong> +62 8963 8316 850<br> -->
+              <strong>Email:</strong> isessah_sea@apps.ipb.ac.id<br>
             </p>
 
           </div>
@@ -913,7 +997,7 @@
           Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=TheEvent
         -->
         Designed by <a href="https://bootstrapmade.com/">BootstrapMade.</a>
-        modified by <a href="https://codepanda.id" target="__blank">codepanda.</a>
+        modified by <a href="https://codepanda.id" target="__blank">codepanda.id</a>
       </div>
     </div>
   </footer><!-- #footer -->
