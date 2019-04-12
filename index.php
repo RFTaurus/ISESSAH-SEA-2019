@@ -58,14 +58,15 @@
       <nav id="nav-menu-container">
         <ul class="nav-menu">
           <li class="menu-active"><a href="#intro">Home</a></li>
-          <li><a href="#about">About</a></li>
+          <!-- <li><a href="#about">About</a></li> -->
           <li><a href="#speakers">Speakers</a></li>
           <li><a href="#Committee">Committee</a></li>
           <li><a href="#schedule">Schedule</a></li>
           <li><a href="#venue">Venue</a></li>
           <li><a href="#participants">Participants</a></li>
           <li><a href="#contact">Contact</a></li>
-          <li class="buy-tickets"><a href="#buy-tickets">Registration Fees</a></li>
+          <li class="buy-tickets"><a href="#buy-tickets">Fees</a></li>
+          <li class="buy-tickets"><a href="registration.php">Registration</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -964,6 +965,8 @@
               <li><i class="fa fa-angle-right"></i> <a href="#schedule">Schedule</a></li>
               <li><i class="fa fa-angle-right"></i> <a href="#venue">Venue</a></li>
               <li><i class="fa fa-angle-right"></i> <a href="#participants">Participating Organizations</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="#buy-tickets">Registration Fees</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="registration.php#registration-form">Registration Form</a></li>
             </ul>
           </div>
 
