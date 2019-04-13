@@ -66,7 +66,7 @@
           <li><a href="#participants">Participants</a></li>
           <li><a href="#contact">Contact</a></li>
           <li class="buy-tickets"><a href="#buy-tickets">Fees</a></li>
-          <li class="buy-tickets"><a href="registration.php">Registration</a></li>
+          <li class="buy-tickets"><a href="submission.php">Submission</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -966,7 +966,7 @@
               <li><i class="fa fa-angle-right"></i> <a href="#venue">Venue</a></li>
               <li><i class="fa fa-angle-right"></i> <a href="#participants">Participating Organizations</a></li>
               <li><i class="fa fa-angle-right"></i> <a href="#buy-tickets">Registration Fees</a></li>
-              <li><i class="fa fa-angle-right"></i> <a href="registration.php#registration-form">Registration Form</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="submission.php#submission-form">Submission Form</a></li>
             </ul>
           </div>
 

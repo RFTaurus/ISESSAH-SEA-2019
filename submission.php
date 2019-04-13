@@ -61,7 +61,7 @@
           <li class="menu-active"><a href="#intro">Home</a></li>
           <li><a href="#about">About</a></li>
           <li class="buy-tickets"><a href="#buy-tickets">Registration Fees</a></li>
-          <li class="buy-tickets"><a href="#registration-form">Registration Form</a></li>
+          <li class="buy-tickets"><a href="#submission-form">Submission Form</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -180,9 +180,9 @@
     </section>
 
     <!--==========================
-      Registration Section
+      Submission Section
     ============================-->
-    <section id="registration-form" class="wow fadeInUp">
+    <section id="submission-form" class="wow fadeInUp">
       <div class="container">
         <div class="section-header">
           <h2>Registration Form</h2>
@@ -247,7 +247,7 @@
               <li><i class="fa fa-angle-right"></i> <a href="index.php#venue">Venue</a></li>
               <li><i class="fa fa-angle-right"></i> <a href="index.php#participants">Participating Organizations</a></li>
               <li><i class="fa fa-angle-right"></i> <a href="#buy-tickets">Registration Fees</a></li>
-              <li><i class="fa fa-angle-right"></i> <a href="#registration-form">Registration Form</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="#submission-form">Submission Form</a></li>
             </ul>
           </div>
 
