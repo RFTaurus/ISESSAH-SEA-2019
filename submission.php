@@ -185,7 +185,7 @@
     <section id="submission-form" class="wow fadeInUp">
       <div class="container">
         <div class="section-header">
-          <h2>Registration Form</h2>
+          <h2>Submission Form</h2>
           <p>Submit Now!</p>
         </div>
 
