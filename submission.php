@@ -61,6 +61,7 @@
           <li class="menu-active"><a href="#intro">Home</a></li>
           <li><a href="#about">About</a></li>
           <li class="buy-tickets"><a href="#buy-tickets">Registration Fees</a></li>
+          <li class="buy-tickets"><a href="#payment">Payment</a></li>
           <li class="buy-tickets"><a href="#submission-form">Submission Form</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
@@ -180,9 +181,37 @@
     </section>
 
     <!--==========================
+      Payment Section
+    ============================-->
+    <section id="payment" class="section-bg wow fadeInUp">
+
+      <div class="container">
+
+        <div class="section-header">
+          <h2>Payment</h2>
+          <p>Click Icon To Pay</p>
+        </div>
+
+        <div class="row payment-info">
+          <div class="col-md-12">
+            <div>
+              <a target="__blank" href="https://www.paypal.me/diapoetri" class="about-btn">
+                <center>
+                  <img src="img/paypal-logo.png" alt="paypal-logo.png" style="width: 25vw; height: auto;">
+                </center>
+              </a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <!-- #payment -->
+
+    <!--==========================
       Submission Section
     ============================-->
-    <section id="submission-form" class="wow fadeInUp">
+    <section id="submission-form" class="section-with-bg wow fadeInUp">
       <div class="container">
         <div class="section-header">
           <h2>Submission Form</h2>

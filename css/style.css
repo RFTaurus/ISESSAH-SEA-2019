@@ -1493,6 +1493,214 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /*--------------------------------------------------------------
+# Payment Section
+--------------------------------------------------------------*/
+
+#payment {
+  padding: 60px 0;
+}
+
+#payment .payment-info {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#payment .payment-info i {
+  font-size: 48px;
+  display: inline-block;
+  margin-bottom: 10px;
+  color: #f82249;
+}
+
+#payment .payment-info address,
+#payment .payment-info p {
+  margin-bottom: 0;
+  color: #112363;
+}
+
+#payment .payment-info h3 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #112363;
+}
+
+#payment .payment-info a {
+  color: #4869df;
+}
+
+#payment .payment-info a:hover {
+  color: #f82249;
+}
+
+#payment .payment-address,
+#payment .payment-phone,
+#payment .payment-email {
+  margin-bottom: 20px;
+}
+
+#payment .form #sendmessage {
+  color: #f82249;
+  border: 1px solid #f82249;
+  display: none;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+#payment .form #errormessage {
+  color: red;
+  display: none;
+  border: 1px solid red;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+#payment .form #sendmessage.show,
+#payment .form #errormessage.show,
+#payment .form .show {
+  display: block;
+}
+
+#payment .form .validation {
+  color: red;
+  display: none;
+  margin: 0 0 20px;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+#payment .form input,
+#payment .form textarea {
+  padding: 10px 14px;
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 15px;
+}
+
+#payment .form button[type="submit"] {
+  background: #f82249;
+  border: 0;
+  padding: 10px 40px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+#payment .form button[type="submit"]:hover {
+  background: #e0072f;
+}
+
+/*--------------------------------------------------------------
+# Submission Form Section
+--------------------------------------------------------------*/
+
+#submission-form {
+  padding: 60px 0;
+}
+
+#submission-form .submission-form-info {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#submission-form .submission-form-info i {
+  font-size: 48px;
+  display: inline-block;
+  margin-bottom: 10px;
+  color: #f82249;
+}
+
+#submission-form .submission-form-info address,
+#submission-form .submission-form-info p {
+  margin-bottom: 0;
+  color: #112363;
+}
+
+#submission-form .submission-form-info h3 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #112363;
+}
+
+#submission-form .submission-form-info a {
+  color: #4869df;
+}
+
+#submission-form .submission-form-info a:hover {
+  color: #f82249;
+}
+
+#submission-form .submission-form-address,
+#submission-form .submission-form-phone,
+#submission-form .submission-form-email {
+  margin-bottom: 20px;
+}
+
+#submission-form .form #sendmessage {
+  color: #f82249;
+  border: 1px solid #f82249;
+  display: none;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+#submission-form .form #errormessage {
+  color: red;
+  display: none;
+  border: 1px solid red;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+#submission-form .form #sendmessage.show,
+#submission-form .form #errormessage.show,
+#submission-form .form .show {
+  display: block;
+}
+
+#submission-form .form .validation {
+  color: red;
+  display: none;
+  margin: 0 0 20px;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+#submission-form .form input,
+#submission-form .form textarea {
+  padding: 10px 14px;
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 15px;
+}
+
+#submission-form .form button[type="submit"] {
+  background: #f82249;
+  border: 0;
+  padding: 10px 40px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+#submission-form .form button[type="submit"]:hover {
+  background: #e0072f;
+}
+
+/*--------------------------------------------------------------
 # Speakers Section
 --------------------------------------------------------------*/
 
