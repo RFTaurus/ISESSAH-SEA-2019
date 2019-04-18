@@ -60,13 +60,14 @@
           <li class="menu-active"><a href="#intro">Home</a></li>
           <!-- <li><a href="#about">About</a></li> -->
           <li><a href="#speakers">Speakers</a></li>
-          <li><a href="#Committee">Committee</a></li>
+          <!-- <li><a href="#Committee">Committee</a></li> -->
           <li><a href="#schedule">Schedule</a></li>
           <li><a href="#venue">Venue</a></li>
-          <li><a href="#participants">Participants</a></li>
+          <li><a href="#buy-tickets">Fees</a></li>
           <li><a href="#contact">Contact</a></li>
-          <li class="buy-tickets"><a href="#buy-tickets">Fees</a></li>
-          <li class="buy-tickets"><a href="submission.php">Submission</a></li>
+          <li class="buy-tickets"><a target="_blank" href="https://drive.google.com/file/d/1ZvYBB0hKa8gohXQhmhU1pjNDhjTXXX0I/view?usp=sharing">Guidelines</a></li>
+          <li class="buy-tickets"><a target="_blank"  href="https://forms.gle/bKqe3vxKFupDrvMP9">Registration</a></li>
+          <li class="buy-tickets"><a target="_blank" href="https://forms.gle/gYg3QfbRXkeBxg996">Submission</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -983,6 +984,8 @@
               <li><i class="fa fa-angle-right"></i> <a href="#about">About us</a></li>
               <li><i class="fa fa-angle-right"></i> <a href="#speaker">Speaker</a></li>
               <li><i class="fa fa-angle-right"></i> <a href="#committee">Committee Members</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="#venue">Venue</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="#participants">Participating Organizations</a></li>
             </ul>
           </div>
 
@@ -990,10 +993,10 @@
             <h4>Useful Links</h4>
             <ul>
               <li><i class="fa fa-angle-right"></i> <a href="#schedule">Schedule</a></li>
-              <li><i class="fa fa-angle-right"></i> <a href="#venue">Venue</a></li>
-              <li><i class="fa fa-angle-right"></i> <a href="#participants">Participating Organizations</a></li>
               <li><i class="fa fa-angle-right"></i> <a href="#buy-tickets">Registration Fees</a></li>
-              <li><i class="fa fa-angle-right"></i> <a href="submission.php#submission-form">Submission Form</a></li>
+              <li><i class="fa fa-angle-right"></i> <a target="_blank" href="https://drive.google.com/file/d/1ZvYBB0hKa8gohXQhmhU1pjNDhjTXXX0I/view?usp=sharing">Paper guideliness</a></li>
+              <li><i class="fa fa-angle-right"></i> <a target="_blank" href="https://forms.gle/bKqe3vxKFupDrvMP9">Registration Form</a></li>
+              <li><i class="fa fa-angle-right"></i> <a target="_blank" href="https://forms.gle/gYg3QfbRXkeBxg996">Submission Form</a></li>
             </ul>
           </div>
 

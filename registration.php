@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Submission | ISESSAH-SEA 2019</title>
+  <title>Registration | ISESSAH-SEA 2019</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="ISESSAH-SEA 2019" name="keywords">
   <meta content="The International Society for Economics and Social Sciences of Animal Health - South East Asia 2019 (ISESSAH-SEA 2019) is a general meeting to connect and update research projects among experts and scientists within the field of social science, animal health and production economics, epidemiologists, veterinarians, medical practitioners and government agencies in the South East Asia region." name="description">
@@ -62,8 +62,7 @@
           <li><a href="#about">About</a></li>
           <li><a href="#buy-tickets">Registration Fees</a></li>
           <li><a href="#payment">Payment</a></li>
-          <li class="buy-tickets"><a href="#submission-form">Submission Form</a></li>
-          <li class="buy-tickets"><a href="#payment">Registration</a></li>
+          <li class="buy-tickets"><a href="#registration-form">Registration Form</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -196,7 +195,7 @@
         <div class="row payment-info">
           <div class="col-md-12">
             <div>
-              <a target="__blank" href="https://www.paypal.me/diapoetri" class="about-btn">
+              <a target="_blank" href="https://www.paypal.me/diapoetri" class="about-btn">
                 <center>
                   <img src="img/paypal-logo.png" alt="paypal-logo.png" style="width: 25vw; height: auto;">
                 </center>
@@ -212,11 +211,11 @@
     <!--==========================
       Submission Section
     ============================-->
-    <section id="submission-form" class="section-with-bg wow fadeInUp">
+    <section id="Registration-form" class="section-with-bg wow fadeInUp">
       <div class="container">
         <div class="section-header">
-          <h2>Submission Form</h2>
-          <p>Submit Now!</p>
+          <h2>Registration Form</h2>
+          <p>Join Us Now!</p>
         </div>
 
         <div class="row">
@@ -317,7 +316,7 @@
           Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=TheEvent
         -->
         Designed by <a href="https://bootstrapmade.com/">BootstrapMade.</a>
-        modified by <a href="https://codepanda.id" target="__blank">codepanda.id</a>
+        modified by <a href="https://codepanda.id" target="_blank">codepanda.id</a>
       </div>
     </div>
   </footer><!-- #footer -->
