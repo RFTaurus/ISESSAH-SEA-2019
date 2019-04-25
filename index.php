@@ -777,12 +777,19 @@
                 <h6 class="card-price text-center">Early</h6>
                 <hr>
                 <ul class="fa-ul">
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates : <b>$330 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* : <b>$200 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates :</li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$300 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$200 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* :</li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$150 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$75 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$35 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Banquet*** (Gala dinner) : <b>Included</b></li>
                 </ul>
                 <hr>
+                <center>
+                  <small><b>Note</b>: $1 USD = Rp. 14.000</small>
+                </center>
               </div>
             </div>
           </div>
@@ -794,12 +801,19 @@
                 <h6 class="card-price text-center">Regular</h6>
                 <hr>
                 <ul class="fa-ul">
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates : <b>$480 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* : <b>$230 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates :</li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$400 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$300 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* :</li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$200 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$100 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$50 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Banquet*** (Gala dinner) : <b>Included</b></li>
                 </ul>
                 <hr>
+                <center>
+                  <small><b>Note</b>: $1 USD = Rp. 14.000</small>
+                </center>
               </div>
             </div>
           </div>
@@ -811,12 +825,19 @@
                 <h6 class="card-price text-center">On-site</h6>
                 <hr>
                 <ul class="fa-ul">
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates : <b>$530 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* : <b>$250 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates :</li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$480 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$350 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* :</li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$250 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$125 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$60 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Banquet*** (Gala dinner) : <b>Included</b></li>
                 </ul>
                 <hr>
+                <center>
+                  <small><b>Note</b>: $1 USD = Rp. 14.000</small>
+                </center>
               </div>
             </div>
           </div>
