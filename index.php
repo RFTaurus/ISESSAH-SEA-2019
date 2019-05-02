@@ -461,21 +461,21 @@
           <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
 
             <div class="row schedule-item">
-              <div class="col-md-3"><time>May 31th, 2019</time></div>
+              <div class="col-md-3"><time>June 21th, 2019</time></div>
               <div class="col-md-9">
                 <h4>Abstract submission deadline</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-3"><time>June 21th, 2019</time></div>
+              <div class="col-md-3"><time>June 28th, 2019</time></div>
               <div class="col-md-9">
                 <h4>Abstract Announcement</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-3"><time>July 02th, 2019</time></div>
+              <div class="col-md-3"><time>July 02nd, 2019</time></div>
               <div class="col-md-9">
                 <h4>Early Bird Registration</h4>
               </div>
