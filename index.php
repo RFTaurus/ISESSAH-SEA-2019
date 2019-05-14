@@ -567,7 +567,7 @@
             <div class="row schedule-item">
               <div class="col-md-2"><time>Guidelines</time></div>
               <div class="col-md-10">
-                <h4>Abstrak Guidelines</h4>
+                <h4>Abstract Guidelines</h4>
                 <p><a target="_blank" href="https://drive.google.com/file/d/1fxdbFCkXvA2A-7LbYsc1p82AnSCqI3F8/view?usp=sharing">Download Here </a></p>
                 <p>&nbsp;</p>
                 <h4>Full Paper Guidelines:</h4>
