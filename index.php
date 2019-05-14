@@ -570,7 +570,7 @@
                 <h4>Abstract Guidelines</h4>
                 <p><a target="_blank" href="https://drive.google.com/file/d/1fxdbFCkXvA2A-7LbYsc1p82AnSCqI3F8/view?usp=sharing">Download Here </a></p>
                 <p>&nbsp;</p>
-                <h4>Full Paper Guidelines:</h4>
+                <h4>Full Paper Guidelines</h4>
                 <p><a target="_blank" href="https://drive.google.com/file/d/1ZvYBB0hKa8gohXQhmhU1pjNDhjTXXX0I/view?usp=sharing">Download Here </a></p>
               </div>
             </div>
