@@ -65,7 +65,7 @@
           <li><a href="#venue">Venue</a></li>
           <li><a href="#buy-tickets">Fees</a></li>
           <li><a href="#contact">Contact</a></li>
-          <li class="buy-tickets"><a target="_blank" href="https://drive.google.com/file/d/1ZvYBB0hKa8gohXQhmhU1pjNDhjTXXX0I/view?usp=sharing">Guidelines</a></li>
+          <li class="buy-tickets"><a target="_blank" href="https://drive.google.com/drive/folders/1Wm0SiV2Hb91OcjknLDl0Zc0CXtWKBay1?usp=sharing">Guidelines</a></li>
           <li class="buy-tickets"><a target="_blank"  href="https://forms.gle/bKqe3vxKFupDrvMP9">Registration</a></li>
           <li class="buy-tickets"><a target="_blank" href="https://forms.gle/gYg3QfbRXkeBxg996">Submission</a></li>
         </ul>
@@ -561,6 +561,17 @@
                 <p>&nbsp;</p>
                 <h4>All papers will be published in:</h4>
                 <p>> Atlantis Press International Proceeding (International Indexed)</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>Guidelines</time></div>
+              <div class="col-md-10">
+                <h4>Abstrak Guidelines</h4>
+                <p><a target="_blank" href="https://drive.google.com/file/d/1fxdbFCkXvA2A-7LbYsc1p82AnSCqI3F8/view?usp=sharing">Download Here </a></p>
+                <p>&nbsp;</p>
+                <h4>Full Paper Guidelines:</h4>
+                <p><a target="_blank" href="https://drive.google.com/file/d/1ZvYBB0hKa8gohXQhmhU1pjNDhjTXXX0I/view?usp=sharing">Download Here </a></p>
               </div>
             </div>
           </div>
