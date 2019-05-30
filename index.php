@@ -871,15 +871,30 @@
         </div>
 
         <div class="row payment-info">
-          <div class="col-md-12">
+          <div class="col-md-6">
             <div>
               <a target="__blank" href="https://www.paypal.me/diapoetri" class="about-btn">
                 <center>
                   <img src="img/paypal-logo.png" alt="paypal-logo.png" style="width: 25vw; height: auto;">
                 </center>
               </a>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
             </div>
           </div>
+
+          <div class="col-md-6">
+            <div>
+              <a class="about-btn">
+                <center>
+                  <img src="img/bni-logo.png" alt="bni-logo.png" style="width: 25vw; height: auto;">
+                </center>
+              </a>
+              <p>0301323996 BNI an Herwin Pisestyani</p>
+              <p>SWIFT code: BNINIDJABGR</p>
+            </div>
+          </div>
+
         </div>
 
       </div>
