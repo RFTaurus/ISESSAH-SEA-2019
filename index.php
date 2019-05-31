@@ -253,7 +253,7 @@
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-4"><time>Indonesia Ministry of Agriculture</time></div>
+              <div class="col-md-4"><time>IPB University</time></div>
               <div class="col-md-8">
                 <h4>Dr. Etih Sudarnika</h4>
               </div>
