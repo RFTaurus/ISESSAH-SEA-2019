@@ -207,6 +207,32 @@
             </div>
           </div>
 
+          <div class="col-lg-6 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/john-weaver.jpg" alt="Dr John Weaver" class="img-fluid">
+              <div class="details">
+                <h3><a href="#speakers">Dr John Weaver</a></h3>
+                <p> Independent Consultant and the Veterinary Director of Weaver Consulting International, Australia</p>
+                <div class="social">
+                  <!-- <a href="https://www.linkedin.com/in/damian-tago-809766a1/" target="__blank"><i class="fa fa-linkedin"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/noer-azam.jpg" alt="noer-azam" class="img-fluid">
+              <div class="details">
+                <h3><a href="#speakers">Prof Dr Ir Noer Azam Achsani, MS</a></h3>
+                <p>Dean of Business School, IPB University, Indonesia</p>
+                <div class="social">
+                  <!-- <a href="https://www.linkedin.com/in/damian-tago-809766a1/" target="__blank"><i class="fa fa-linkedin"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
         </div>
 
     </section>
@@ -568,10 +594,10 @@
               <div class="col-md-2"><time>Guidelines</time></div>
               <div class="col-md-10">
                 <h4>Abstract Guidelines</h4>
-                <p><a target="_blank" href="https://drive.google.com/file/d/1fxdbFCkXvA2A-7LbYsc1p82AnSCqI3F8/view?usp=sharing">Download Here </a></p>
+                <p><a target="_blank" href="https://drive.google.com/file/d/1fxdbFCkXvA2A-7LbYsc1p82AnSCqI3F8/view?usp=sharing">Check Here</a></p>
                 <p>&nbsp;</p>
                 <h4>Full Paper Guidelines</h4>
-                <p><a target="_blank" href="https://drive.google.com/file/d/1ZvYBB0hKa8gohXQhmhU1pjNDhjTXXX0I/view?usp=sharing">Download Here </a></p>
+                <p><a target="_blank" href="https://drive.google.com/file/d/1ZvYBB0hKa8gohXQhmhU1pjNDhjTXXX0I/view?usp=sharing">Check Here</a></p>
               </div>
             </div>
           </div>
