@@ -211,7 +211,7 @@
             <div class="speaker">
               <img src="img/speakers/john-weaver.jpg" alt="Dr John Weaver" class="img-fluid">
               <div class="details">
-                <h3><a href="#speakers">Dr John Weaver</a></h3>
+                <h3><a href="#speakers">John Weaver, MA, VET MB, MSC, MACVS, MRCVS</a></h3>
                 <p> Independent Consultant and the Veterinary Director of Weaver Consulting International, Australia</p>
                 <div class="social">
                   <!-- <a href="https://www.linkedin.com/in/damian-tago-809766a1/" target="__blank"><i class="fa fa-linkedin"></i></a> -->
@@ -487,35 +487,35 @@
           <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
 
             <div class="row schedule-item">
-              <div class="col-md-3"><time>June 21th, 2019</time></div>
+              <div class="col-md-3"><time>July 21th, 2019</time></div>
               <div class="col-md-9">
                 <h4>Abstract submission deadline</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-3"><time>June 28th, 2019</time></div>
+              <div class="col-md-3"><time>July 28th, 2019</time></div>
               <div class="col-md-9">
                 <h4>Abstract Announcement</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-3"><time>July 02nd, 2019</time></div>
+              <div class="col-md-3"><time>August 15th, 2019</time></div>
               <div class="col-md-9">
                 <h4>Early Bird Registration</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-3"><time>July 12th, 2019</time></div>
+              <div class="col-md-3"><time>August 31th, 2019</time></div>
               <div class="col-md-9">
                 <h4>Full Paper Submission deadline</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-3"><time>August 17th, 2019</time></div>
+              <div class="col-md-3"><time>September 17th, 2019</time></div>
               <div class="col-md-9">
                 <h4>Regular Registration</h4>
               </div>
