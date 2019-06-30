@@ -626,6 +626,22 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #f82249;
 }
 
+/* Venue */
+.venue{
+  color: #2f3138;
+  font-weight: 600;
+  transform: scale(1.0);
+  transition: 0.5s;
+}
+
+.venue h3:hover{
+  color: #f82249;
+  transform: scale(1.1);
+  transition: 0.5s;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+}
+
 @-webkit-keyframes pulsate-btn {
   0% {
     -webkit-transform: scale(0.6, 0.6);

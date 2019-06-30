@@ -666,6 +666,12 @@
 
         </div>
       </div>
+      
+      <br>
+
+      <a class="venue" href="venue.php">
+        <h3 style="text-align: center; padding-top: 1vh">Read More >></h3>
+      </a>
 
     </section>
 
@@ -1070,6 +1076,7 @@
               <li><i class="fa fa-angle-right"></i> <a target="_blank" href="https://drive.google.com/file/d/1ZvYBB0hKa8gohXQhmhU1pjNDhjTXXX0I/view?usp=sharing">Paper guideliness</a></li>
               <li><i class="fa fa-angle-right"></i> <a target="_blank" href="https://forms.gle/bKqe3vxKFupDrvMP9">Registration Form</a></li>
               <li><i class="fa fa-angle-right"></i> <a target="_blank" href="https://forms.gle/gYg3QfbRXkeBxg996">Submission Form</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="venue.php">Hotel & Venue</a></li>
             </ul>
           </div>
 
