@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Venue, Hotel, & Attraction | ISESSAH-SEA 2019</title>
+  <title>Hotel, Venue, & Attraction | ISESSAH-SEA 2019</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="ISESSAH-SEA 2019" name="keywords">
   <meta content="The International Society for Economics and Social Sciences of Animal Health - South East Asia 2019 (ISESSAH-SEA 2019) is a general meeting to connect and update research projects among experts and scientists within the field of social science, animal health and production economics, epidemiologists, veterinarians, medical practitioners and government agencies in the South East Asia region." name="description">
