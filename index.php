@@ -816,17 +816,17 @@
           <div class="col-lg-4">
             <div class="card mb-5 mb-lg-0">
               <div class="card-body">
-                <h5 class="card-title text-muted text-uppercase text-center">Until 2 July 2019</h5>
+                <h5 class="card-title text-muted text-uppercase text-center">Until 15 August 2019</h5>
                 <h6 class="card-price text-center">Early</h6>
                 <hr>
                 <ul class="fa-ul">
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates :</li>
-                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$300 USD</b></li>
-                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$200 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$200 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$120 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* :</li>
-                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$150 USD</b></li>
-                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$75 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$35 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$100 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$50 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$20 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Banquet*** (Gala dinner) : <b>Included</b></li>
                 </ul>
                 <hr>
@@ -840,17 +840,17 @@
           <div class="col-lg-4">
             <div class="card mb-5 mb-lg-0">
               <div class="card-body">
-                <h5 class="card-title text-muted text-uppercase text-center">Until 17 August 2019</h5>
+                <h5 class="card-title text-muted text-uppercase text-center">Until 17 September 2019</h5>
                 <h6 class="card-price text-center">Regular</h6>
                 <hr>
                 <ul class="fa-ul">
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates :</li>
-                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$400 USD</b></li>
-                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$300 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$250 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$180 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* :</li>
-                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$200 USD</b></li>
-                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$100 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$50 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$150 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$60 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$30 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Banquet*** (Gala dinner) : <b>Included</b></li>
                 </ul>
                 <hr>
@@ -869,12 +869,12 @@
                 <hr>
                 <ul class="fa-ul">
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates :</li>
-                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$480 USD</b></li>
-                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$350 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$300 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$200 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* :</li>
-                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$250 USD</b></li>
-                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$125 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$60 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Presenter (+publication) : <b>$200 USD</b></li>
+                  <li><span class="fa-li">&nbsp;&nbsp;&nbsp;<i class="fa fa-circle"></i></span>Listener : <b>$75 USD</b></li>
+                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$35 USD</b></li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Banquet*** (Gala dinner) : <b>Included</b></li>
                 </ul>
                 <hr>
@@ -951,7 +951,7 @@
             <div class="row schedule-item">
               <div class="col-md-6">
                 <div class="speaker" style="width: auto; height: 10vh; overflow: visible;">
-                  <img src="img/sponsors/fkhipb.jpg" alt="Logo-IPB" style="border-radius: 0%">
+                  <img src="img/sponsors/fkhipb.jpg" alt="Logo-FKH" style="border-radius: 0%">
                 </div>
               </div>
               <div class="col-md-6">
@@ -962,7 +962,7 @@
             <div class="row schedule-item">
               <div class="col-md-6">
                 <div class="speaker" style="width: auto; height: 10vh; overflow: visible;">
-                  <img src="img/sponsors/sbipb.jpg" alt="Logo-IPB" style="border-radius: 0%">
+                  <img src="img/sponsors/sbipb.jpg" alt="Logo-sbipb" style="border-radius: 0%">
                 </div>
               </div>
               <div class="col-md-6">
@@ -984,11 +984,22 @@
             <div class="row schedule-item">
               <div class="col-md-6">
               <div class="speaker" style="width: auto; height: 10vh; overflow: visible;">
-                  <img src="img/sponsors/isessah.png" alt="Logo-IPB" style="border-radius: 0%">
+                  <img src="img/sponsors/isessah.png" alt="Logo-isessah" style="border-radius: 0%">
                 </div>
               </div>
               <div class="col-md-6">
                 <h4>ISESSAH (The International Society for Economics and Social Sciences of Animal Health)</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-6">
+              <div class="speaker" style="width: auto; height: 10vh; overflow: visible;">
+                  <img src="img/sponsors/pdhi.png" alt="Logo-pdhi" style="border-radius: 0%">
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h4>Indonesian Veterinary Medical Association</h4>
               </div>
             </div>
 
@@ -1042,7 +1053,6 @@
 
   </main>
 
-
   <!--==========================
     Footer
   ============================-->
@@ -1076,7 +1086,7 @@
               <li><i class="fa fa-angle-right"></i> <a target="_blank" href="https://drive.google.com/file/d/1ZvYBB0hKa8gohXQhmhU1pjNDhjTXXX0I/view?usp=sharing">Paper guideliness</a></li>
               <li><i class="fa fa-angle-right"></i> <a target="_blank" href="https://forms.gle/bKqe3vxKFupDrvMP9">Registration Form</a></li>
               <li><i class="fa fa-angle-right"></i> <a target="_blank" href="https://forms.gle/gYg3QfbRXkeBxg996">Submission Form</a></li>
-              <li><i class="fa fa-angle-right"></i> <a href="venue.php">Hotel & Venue</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="venue.php">Hotel, Venue, & Attraction</a></li>
             </ul>
           </div>
 
