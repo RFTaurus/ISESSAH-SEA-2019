@@ -550,7 +550,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 0 15px;
 }
 
-#intro h2 {
+#intro h2, h1, h3 {
   color: #fff;
   font-family: "Raleway", sans-serif;
   font-size: 36px;
@@ -567,6 +567,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro h2 span {
+  color: #f82249;
+}
+
+#intro h1 span {
   color: #f82249;
 }
 

@@ -67,7 +67,7 @@
           <li><a href="#contact">Contact</a></li>
           <li class="buy-tickets"><a target="_blank" href="https://drive.google.com/drive/folders/1Wm0SiV2Hb91OcjknLDl0Zc0CXtWKBay1?usp=sharing">Guidelines</a></li>
           <li class="buy-tickets"><a target="_blank"  href="https://forms.gle/bKqe3vxKFupDrvMP9">Registration</a></li>
-          <li class="buy-tickets"><a target="_blank" href="https://forms.gle/gYg3QfbRXkeBxg996">Submission</a></li>
+          <li class="buy-tickets"><a href="submission.php">Submission</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -1085,7 +1085,7 @@
               <li><i class="fa fa-angle-right"></i> <a href="#buy-tickets">Registration Fees</a></li>
               <li><i class="fa fa-angle-right"></i> <a target="_blank" href="https://drive.google.com/file/d/1ZvYBB0hKa8gohXQhmhU1pjNDhjTXXX0I/view?usp=sharing">Paper guideliness</a></li>
               <li><i class="fa fa-angle-right"></i> <a target="_blank" href="https://forms.gle/bKqe3vxKFupDrvMP9">Registration Form</a></li>
-              <li><i class="fa fa-angle-right"></i> <a target="_blank" href="https://forms.gle/gYg3QfbRXkeBxg996">Submission Form</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="submission.php">Submission Form</a></li>
               <li><i class="fa fa-angle-right"></i> <a href="venue.php">Hotel, Venue, & Attraction</a></li>
             </ul>
           </div>

@@ -60,10 +60,6 @@
           <li><a href="index.php">Main Page</a></li>
           <li class="menu-active"><a href="#intro">Home</a></li>
           <li><a href="#about">About</a></li>
-          <li><a href="#buy-tickets">Registration Fees</a></li>
-          <li><a href="#payment">Payment</a></li>
-          <li class="buy-tickets"><a href="#submission-form">Submission Form</a></li>
-          <li class="buy-tickets"><a href="#payment">Registration</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -75,13 +71,8 @@
   <section id="intro">
     <div class="intro-container wow fadeIn">
       <h2 class="mb-4 pb-0"><span>ISESSAH-SEA 2019</span> Conference</h2>
-      <!-- <i><blockquote class="mb-4 pb-0"><span style="color:aliceblue; font-size:1.25em;">"Strengthening animal health in farm business</span> <span style="color: #f82249; font-size:1.25em;">towards 4.0 industry in the South East Asia"</span></blockquote></i> -->
-      <i><p class="mb-4 pb-0">The International Society for Economics and Social Sciences of Animal Health - South East Asia 2019</p></i>
-      <i><p class="mb-4 pb-0">And The Scientific Meeting of Indonesian Veterinary Epidemiology and Economics Association 2019</p></i>
-      <p class="mb-4 pb-0">17 – 18 October 2019, IPB International Convention Center, IPB University, Indonesia</p>
-      <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video"
-        data-autoplay="true"></a> -->
-      <a href="#about" class="about-btn scrollto">About The Event</a>
+      <h1 class="mb-4 pb-0">Abstract Submission <span>Has Been Closed</span></h1>
+      <i><p class="mb-4 pb-0">For Further <span>Information</span> Please Contact Us <span>Via Email</span></i>
     </div>
   </section>
 
@@ -109,141 +100,6 @@
       </div>
     </section>
 
-    <!--==========================
-      Buy Ticket Section
-    ============================-->
-    <section id="buy-tickets" class="section-with-bg wow fadeInUp">
-      <div class="container">
-
-        <div class="section-header">
-          <h2>Registration Fees</h2>
-          <b><p>Notes :</p></b>
-          <p>* Students must provide recent proof of student registration from her/his university.</p>
-          <p>** Accompanying price does not include Gala Dinner (20 USD)</p>
-          <p>*** Publication Fee is only for 1 article/person. the next article charged 85 USD</p>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-4">
-            <div class="card mb-5 mb-lg-0">
-              <div class="card-body">
-                <h5 class="card-title text-muted text-uppercase text-center">Until 2 July 2019</h5>
-                <h6 class="card-price text-center">Early</h6>
-                <hr>
-                <ul class="fa-ul">
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates : <b>$330 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* : <b>$200 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$35 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Banquet*** (Gala dinner) : <b>Included</b></li>
-                </ul>
-                <hr>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4">
-            <div class="card mb-5 mb-lg-0">
-              <div class="card-body">
-                <h5 class="card-title text-muted text-uppercase text-center">Until 17 August 2019</h5>
-                <h6 class="card-price text-center">Regular</h6>
-                <hr>
-                <ul class="fa-ul">
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates : <b>$480 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* : <b>$230 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$50 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Banquet*** (Gala dinner) : <b>Included</b></li>
-                </ul>
-                <hr>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4">
-            <div class="card mb-5 mb-lg-0">
-              <div class="card-body">
-                <h5 class="card-title text-muted text-uppercase text-center">On-site</h5>
-                <h6 class="card-price text-center">On-site</h6>
-                <hr>
-                <ul class="fa-ul">
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Delegates : <b>$530 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Students* : <b>$250 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Accompanying Person** : <b>$60 USD</b></li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Banquet*** (Gala dinner) : <b>Included</b></li>
-                </ul>
-                <hr>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-
-    </section>
-
-    <!--==========================
-      Payment Section
-    ============================-->
-    <section id="payment" class="section-bg wow fadeInUp">
-
-      <div class="container">
-
-        <div class="section-header">
-          <h2>Payment</h2>
-          <p>Click Icon To Pay</p>
-        </div>
-
-        <div class="row payment-info">
-          <div class="col-md-12">
-            <div>
-              <a target="__blank" href="https://www.paypal.me/diapoetri" class="about-btn">
-                <center>
-                  <img src="img/paypal-logo.png" alt="paypal-logo.png" style="width: 25vw; height: auto;">
-                </center>
-              </a>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section>
-    <!-- #payment -->
-
-    <!--==========================
-      Submission Section
-    ============================-->
-    <section id="submission-form" class="section-with-bg wow fadeInUp">
-      <div class="container">
-        <div class="section-header">
-          <h2>Submission Form</h2>
-          <p>Submit Now!</p>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-2 col-md-2">
-            <div class="speaker">
-              <p>&nbsp;</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-12 col-md-12">
-          <center>
-            <iframe  src="https://docs.google.com/forms/d/e/1FAIpQLSfcGLjELBvxhiaxe1JCZzu696GaFq-QdJ_ERC5CdFkK5pJOzw/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>            
-          </center>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-2 col-md-2">
-            <div class="speaker">
-              <p>&nbsp;</p>
-            </div>
-          </div>
-        </div>
-    </section>
-
   </main>
 
 
@@ -263,24 +119,27 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="fa fa-angle-right"></i> <a href="index.php#home">Home</a></li>
-              <li><i class="fa fa-angle-right"></i> <a href="index.php#about">About us</a></li>
-              <li><i class="fa fa-angle-right"></i> <a href="index.php#speaker">Speaker</a></li>
-              <li><i class="fa fa-angle-right"></i> <a href="index.php#committee">Committee Members</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="#home">Home</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="#about">About us</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="#speaker">Speaker</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="#committee">Committee Members</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="#venue">Venue</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="#participants">Participating Organizations</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="fa fa-angle-right"></i> <a href="index.php#schedule">Schedule</a></li>
-              <li><i class="fa fa-angle-right"></i> <a href="index.php#venue">Venue</a></li>
-              <li><i class="fa fa-angle-right"></i> <a href="index.php#participants">Participating Organizations</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="#schedule">Schedule</a></li>
               <li><i class="fa fa-angle-right"></i> <a href="#buy-tickets">Registration Fees</a></li>
-              <li><i class="fa fa-angle-right"></i> <a href="#submission-form">Submission Form</a></li>
+              <li><i class="fa fa-angle-right"></i> <a target="_blank" href="https://drive.google.com/file/d/1ZvYBB0hKa8gohXQhmhU1pjNDhjTXXX0I/view?usp=sharing">Paper guideliness</a></li>
+              <li><i class="fa fa-angle-right"></i> <a target="_blank" href="https://forms.gle/bKqe3vxKFupDrvMP9">Registration Form</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="submission.php">Submission Form</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="venue.php">Hotel, Venue, & Attraction</a></li>
             </ul>
           </div>
-
+          
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
