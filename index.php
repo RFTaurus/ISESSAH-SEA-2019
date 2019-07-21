@@ -67,7 +67,7 @@
           <li><a href="#contact">Contact</a></li>
           <li class="buy-tickets"><a target="_blank" href="https://drive.google.com/drive/folders/1Wm0SiV2Hb91OcjknLDl0Zc0CXtWKBay1?usp=sharing">Guidelines</a></li>
           <li class="buy-tickets"><a target="_blank"  href="https://forms.gle/bKqe3vxKFupDrvMP9">Registration</a></li>
-          <li class="buy-tickets"><a href="submission.php">Submission</a></li>
+          <li class="buy-tickets"><a target="_blank" href="https://forms.gle/gYg3QfbRXkeBxg996">Submission</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
