@@ -65,9 +65,9 @@
           <li><a href="#venue">Venue</a></li>
           <li><a href="#buy-tickets">Fees</a></li>
           <li><a href="#contact">Contact</a></li>
+          <li class="buy-tickets"><a target="_blank"  href="https://drive.google.com/file/d/1WUcN-35oU15tjgeyjJKLFCh9glftHMDv/view?usp=sharing">Rundown</a></li>
           <li class="buy-tickets"><a target="_blank" href="https://drive.google.com/drive/folders/1Wm0SiV2Hb91OcjknLDl0Zc0CXtWKBay1?usp=sharing">Guidelines</a></li>
           <li class="buy-tickets"><a target="_blank"  href="https://forms.gle/bKqe3vxKFupDrvMP9">Registration</a></li>
-          <li class="buy-tickets"><a href="submission.php">Submission</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -148,6 +148,30 @@
               </div>
             </div>
           </div>
+          <div class="col-lg-6 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/i-ketut.jpg" alt="Drh. I Ketut Diarmita" class="img-fluid">
+              <div class="details">
+                <h3><a href="#speakers">Drh. I Ketut Diarmita</a></h3>
+                <p>MoA Indonesia</p>
+                <div class="social">
+                  <a href="https://www.linkedin.com/in/i-ketut-diarmita-92517088/?originalSubdomain=id" target="__blank"><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/arif-satria.jpg" alt="Dr. Arif Satria" class="img-fluid">
+              <div class="details">
+                <h3><a href="#speakers">Dr. Arif Satria</a></h3>
+                <p>IPB University</p>
+                <div class="social">
+                  <a href="https://www.linkedin.com/in/arif-satria-9155b626/?originalSubdomain=id" target="__blank"><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
 
         <div class="section-header">
@@ -212,7 +236,7 @@
               <img src="img/speakers/john-weaver.jpg" alt="Dr John Weaver" class="img-fluid">
               <div class="details">
                 <h3><a href="#speakers">John Weaver, MA, VET MB, MSC, MACVS, MRCVS</a></h3>
-                <p> Independent Consultant and the Veterinary Director of Weaver Consulting International, Australia</p>
+                <p>Independent Consultant and the Veterinary Director of Weaver Consulting International, Australia</p>
                 <div class="social">
                   <!-- <a href="https://www.linkedin.com/in/damian-tago-809766a1/" target="__blank"><i class="fa fa-linkedin"></i></a> -->
                 </div>
@@ -226,6 +250,32 @@
               <div class="details">
                 <h3><a href="#speakers">Prof Dr Ir Noer Azam Achsani, MS</a></h3>
                 <p>Dean of Business School, IPB University, Indonesia</p>
+                <div class="social">
+                  <!-- <a href="https://www.linkedin.com/in/damian-tago-809766a1/" target="__blank"><i class="fa fa-linkedin"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/novi-wulandari.jpg" alt="Drh. Novi Wulandari" class="img-fluid">
+              <div class="details">
+                <h3><a href="#speakers">Drh. Novi Wulandari</a></h3>
+                <p>Royal Carin</p>
+                <div class="social">
+                  <!-- <a href="https://www.linkedin.com/in/damian-tago-809766a1/" target="__blank"><i class="fa fa-linkedin"></i></a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/audy-joinaldy.jpg" alt="Ir. Audy Joinaldy, SPt. MSc. MM. IPM" class="img-fluid">
+              <div class="details">
+                <h3><a href="#speakers">Ir. Audy Joinaldy, SPt. MSc. MM. IPM</a></h3>
+                <p>Perkasa Group</p>
                 <div class="social">
                   <!-- <a href="https://www.linkedin.com/in/damian-tago-809766a1/" target="__blank"><i class="fa fa-linkedin"></i></a> -->
                 </div>
