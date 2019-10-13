@@ -262,7 +262,7 @@
               <img src="img/speakers/novi-wulandari.jpg" alt="Drh. Novi Wulandari" class="img-fluid">
               <div class="details">
                 <h3><a href="#speakers">Drh. Novi Wulandari</a></h3>
-                <p>Royal Carin</p>
+                <p>Royal Canin</p>
                 <div class="social">
                   <!-- <a href="https://www.linkedin.com/in/damian-tago-809766a1/" target="__blank"><i class="fa fa-linkedin"></i></a> -->
                 </div>
